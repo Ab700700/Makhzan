@@ -19,6 +19,7 @@ Thanks to this application, users can benefit from online reservation technology
   - Xampp
   - Figma
   - Canva
+  - Spring Boot Framework
 
 ## Dependencies
   - Lombok
